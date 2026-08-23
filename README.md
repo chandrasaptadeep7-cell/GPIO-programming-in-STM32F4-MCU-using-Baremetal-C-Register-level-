@@ -11,7 +11,7 @@ This Embedded C program is only for STM32F401CCu6 if you using some other MCUs i
 * Bread Board
 
 ## Software Required:
-* STM32CUBEIDE
+* STM32cubeIDE
 
 ## Documents required:
 * STM32F401CCU6 Reference manual (RM)
