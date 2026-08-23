@@ -9,6 +9,9 @@ To blink LED of Port B Pin 12(On board pin B12) in almost 1 second delay. It is 
 * Wires - To make connection between the microcontroler and ST link v2
 * Bread Board
 
+## Software Required:
+* STM32CUBEIDE
+
 ## Documents required:
 * STM32F401CCU6 Reference manual (RM)
 * STM32F401CCU6 Datasheet
