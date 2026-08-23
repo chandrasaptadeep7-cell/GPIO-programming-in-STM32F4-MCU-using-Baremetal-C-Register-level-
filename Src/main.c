@@ -3,7 +3,7 @@
 void delay(void);
 
 //Defining base addresses
-#define AHB1EN (0x30+0x40023800)
+#define AHB1ENR (0x30+0x40023800)
 #define GPIOB_MODER (0x40020400 + 0x00)
 #define GPIOB_ODR (0x40020400 + 0x14)
 
@@ -11,7 +11,7 @@ void delay(void);
 int main(void){
 
 	//Defining via pointer
-	volatile uint32_t* CLK = (uint32_t*)AHB1EN;
+	volatile uint32_t* CLK = (uint32_t*)AHB1ENR;
 	volatile uint32_t* MODER = (uint32_t*)GPIOB_MODER;
 	volatile uint32_t* ODR = (uint32_t*)GPIOB_ODR;
 
