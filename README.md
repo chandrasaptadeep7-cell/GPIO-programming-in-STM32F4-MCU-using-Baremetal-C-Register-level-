@@ -16,4 +16,12 @@ To blink LED of Port B Pin 12 (On board pin B12) in almost 1 second delay. It is
 * STM32F401CCU6 Reference manual (RM)
 * STM32F401CCU6 Datasheet
 
+## Connection between STlink v2 and the MCU:
+| **ST-Link V2 Pin** | **STM32F401CCU6 Pin** | **Purpose** |
+|---|---|---|
+| **3.3V** | **3.3V** | Power supply |
+| **GND** | **GND** | Ground |
+| **SWDIO** | **DIO (SWDIO)** | Serial Wire Debug data input/output |
+| **SWCLK** | **CLK (SWCLK)** | Serial Wire Debug clock |
+
 
