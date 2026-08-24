@@ -15,8 +15,8 @@ This Embedded C program is strictly for STM32F401CCU6 if you using some other MC
 * STM32cubeIDE
 
 ## Documents required:
-* STM32F401CCU6 Reference manual (RM)
-* STM32F401CCU6 Datasheet
+* STM32F401CCU6 Reference manual (RM).
+* STM32F401CCU6 Datasheet (DS).
 
 ## Connection between STlink v2 and the MCU:
 | **ST-Link V2 Pin** | **STM32F401CCU6 Pin** | **Purpose** |
