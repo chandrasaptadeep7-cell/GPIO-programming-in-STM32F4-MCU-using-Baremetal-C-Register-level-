@@ -30,8 +30,9 @@ This Embedded C program is strictly for STM32F401CCU6 if you using some other MC
 * Open STMCubeIDE.
 * Click on File -> New -> STM32 Projects.
 * Next Write "STM32f401CCU6" at the commercial part number section.
-  <img width="1452" height="787" alt="image" src="https://github.com/user-attachments/assets/81383d23-87e8-487e-b100-fe1edd34f0ea" />
-
+  
+  <img width="1452" height="788" alt="Screenshot 2026-08-24 055936" src="https://github.com/user-attachments/assets/d147089b-14d9-4c8c-8906-61054eacae6c" />
+  
 * In the "Docs and Resource" segment look for reference manual.
 * Download this.
 * After that click on Datasheet and download it.
