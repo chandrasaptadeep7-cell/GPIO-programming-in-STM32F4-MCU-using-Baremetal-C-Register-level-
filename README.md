@@ -1,14 +1,15 @@
 # Blinking-programming-in-STM32F4-MCU-using-Baremetal-C-Register-level-GPIO-Programming
 ## Objective:
-To blink LED of Port B Pin 12 (On board pin B12) in almost 1 second delay. It is not accurate 1 second delay because here loop is used to create delay.
+To blink LED of Port B Pin 12 (On board pin B12) in almost 500 milliseconds delay if we apply digital Low signal to Port B pin 10 (On board pin B10) . It is not accurate 500 miliseconds delay because here loop is used to create delay.
 ## Note:
 This Embedded C program is strictly for STM32F401CCU6 if you using some other MCUs it will  or may not work. 
 ## Hardware used:
 * STM32F401CCU6 Microcontroller
 * ST link V2
 * Resistor - 33 Ohm
-* Wires - To make connection between the microcontroler and ST link v2
+* Wires - To make connection between the microcontroller and ST link v2, connect with button
 * Bread Board
+* Button
 
 ## Software Required:
 * STM32cubeIDE
