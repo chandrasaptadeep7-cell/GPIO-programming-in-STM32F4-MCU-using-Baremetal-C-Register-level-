@@ -39,6 +39,7 @@ This Embedded C program is only for STM32F401CCU6 if you using some other MCUs i
 
 
 ## Challenges faced:
-*
+* Logical Error manipulation while manipulating bits of each register.
+* Loose Connection between ST link V2 and the MCU
 
 
