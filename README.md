@@ -36,9 +36,13 @@ This Embedded C program is strictly for STM32F401CCU6 if you using some other MC
 * Download this.
 * After that click on Datasheet and download it.
 
-
-
-
+## What I have learned:
+* How to enable clock of a peripheral. 
+* How to configure GPIO pins as input and output by Baremetal C.
+* How to read Reference Manual and Datasheet.
+* Bit Manipulation.
+* Pointer and dereferencing of a pointer.
+  
 ## Challenges faced:
 * Logical Error manipulation while manipulating bits of each register.
 * Loose Connection between ST link V2 and the MCU.
