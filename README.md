@@ -28,7 +28,7 @@ This Embedded C program is strictly for STM32F401CCU6 if you using some other MC
 
 ## How to download the documents:
 * Open STMCubeIDE.
-* Click on File -> New -> STM32 Projects
+* Click on File -> New -> STM32 Projects.
 * Next Write "STM32f401CCU6" at the commercial part number section.
   <img width="1452" height="787" alt="image" src="https://github.com/user-attachments/assets/81383d23-87e8-487e-b100-fe1edd34f0ea" />
 
@@ -44,7 +44,7 @@ This Embedded C program is strictly for STM32F401CCU6 if you using some other MC
 * Pointer and dereferencing of a pointer.
   
 ## Challenges faced:
-* Logical Error manipulation while manipulating bits of each register.
+* Logical Error while manipulating bits of each register.
 * Loose Connection between ST link V2 and the MCU.
 
 
